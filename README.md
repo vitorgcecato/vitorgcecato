@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor em início de carreira  
 🎓 Formado no Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas (SENAI)  
-🚀 Em busca de oportunidades como **estagiário ou desenvolvedor júnior**
+🚀 Em busca de oportunidades como **desenvolvedor júnior**
 
 ---
 

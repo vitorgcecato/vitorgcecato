@@ -36,8 +36,8 @@ Tenho foco em desenvolvimento web e mobile, sempre buscando evoluir minhas habil
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🤖 Inteligência Artificial
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF4F81?style=for-the-badge)
 
 ### 🛠️ Ferramentas & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -45,12 +45,12 @@ Tenho foco em desenvolvimento web e mobile, sempre buscando evoluir minhas habil
 ![Gogs](https://img.shields.io/badge/Gogs-609926?style=for-the-badge&logo=gogs&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF4F81?style=for-the-badge)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-6366F1?style=for-the-badge&logo=vercel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-FFB703?style=for-the-badge&logo=notion&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-7B61FF?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 

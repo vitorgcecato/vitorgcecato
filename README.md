@@ -67,7 +67,7 @@ Tenho foco em desenvolvimento web e mobile, sempre buscando evoluir minhas habil
 
 ## 🎯 Objetivo
 
-Busco oportunidades como **estagiário ou desenvolvedor júnior**, onde eu possa evoluir, contribuir e ganhar experiência prática no mercado de tecnologia.
+Busco oportunidades como **desenvolvedor júnior**, onde eu possa evoluir, contribuir e ganhar experiência prática no mercado de tecnologia.
 
 ---
 

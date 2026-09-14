@@ -85,4 +85,6 @@ Busco oportunidades como **desenvolvedor júnior**, onde eu possa evoluir, contr
 
 ## 📫 Contato
 
+- E-mail (PT-BR): contato@vgc.dev.br
+- Mail (ENG): contact@vgc.dev.br
 - Linkedin: [@vitorgcecato](https://www.linkedin.com/in/vitorgcecato/)
